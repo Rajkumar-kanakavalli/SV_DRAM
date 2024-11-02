@@ -1,0 +1,216 @@
+# vsim work.top -l run.log 
+# Start time: 12:01:56 on May 20,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: top.sv(11): Module 'ram_if' is not defined.
+# ** Error: top.sv(15): Module 'ram_4096' is not defined.
+# Optimization failed
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 12:04:29 on May 20,2022
+# vlog -reportprogress 300 top.sv 
+# -- Compiling package top_sv_unit
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 12:04:29 on May 20,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.top -l run.log 
+# Start time: 12:01:56 on May 20,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: top.sv(11): Module 'ram_if' is not defined.
+# ** Error: top.sv(15): Module 'ram_4096' is not defined.
+# Optimization failed
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 12:07:09 on May 20,2022
+# vlog -reportprogress 300 top.sv 
+# -- Compiling interface ram_if
+# ** Error: (vlog-13069) ** while parsing file included at top.sv(1)
+# ** at interface.sv(31): near "clocking": syntax error, unexpected "SystemVerilog keyword 'clocking'".
+# ** Error: ** while parsing file included at top.sv(1)
+# ** at interface.sv(27): (vlog-13205) Syntax error found in the scope following 'wr_drv_cb'. Is there a missing '::'?
+# End time: 12:07:09 on May 20,2022, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: C:/questasim64_10.7c/win64/vlog failed.
+# Error in macro ./run.do line 2
+# C:/questasim64_10.7c/win64/vlog failed.
+#     while executing
+# "vlog top.sv"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 12:08:13 on May 20,2022
+# vlog -reportprogress 300 top.sv 
+# -- Compiling interface ram_if
+# ** Error: (vlog-13069) ** while parsing file included at top.sv(1)
+# ** at interface.sv(67): near "input": syntax error, unexpected input, expecting ';' or ','.
+# End time: 12:08:13 on May 20,2022, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/questasim64_10.7c/win64/vlog failed.
+# Error in macro ./run.do line 2
+# C:/questasim64_10.7c/win64/vlog failed.
+#     while executing
+# "vlog top.sv"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 12:08:34 on May 20,2022
+# vlog -reportprogress 300 top.sv 
+# -- Compiling interface ram_if
+# -- Compiling package top_sv_unit
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 12:08:34 on May 20,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.top -l run.log 
+# Start time: 12:01:56 on May 20,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: top.sv(15): Module 'ram_4096' is not defined.
+# Optimization failed
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 12:16:33 on May 20,2022
+# vlog -reportprogress 300 top.sv 
+# -- Compiling interface ram_if
+# -- Compiling package top_sv_unit
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 12:16:33 on May 20,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# ** Error: invalid command name "vsimwork.top"
+# Error in macro ./run.do line 3
+# invalid command name "vsimwork.top"
+#     while executing
+# "vsimwork.top -l run.log"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 12:16:52 on May 20,2022
+# vlog -reportprogress 300 top.sv 
+# -- Compiling interface ram_if
+# -- Compiling package top_sv_unit
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 12:16:52 on May 20,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.top -l run.log 
+# Start time: 12:01:56 on May 20,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: top.sv(15): Module 'ram_4096' is not defined.
+# Optimization failed
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 12:18:54 on May 20,2022
+# vlog -reportprogress 300 top.sv 
+# -- Compiling interface ram_if
+# ** Error: ** while parsing file included at top.sv(4)
+# ** at testcase.sv(3): (vlog-13006) Could not find the package (ram_pkg).  Design read will continue, but expect a cascade of errors after this failure.  Furthermore if you experience a vopt-7 error immediately before this error then please check the package names or the library search paths on the command line.
+# ** Error: (vlog-13069) ** while parsing file included at top.sv(4)
+# ** at testcase.sv(5): near "ram_trans": syntax error, unexpected IDENTIFIER.
+# ** Error: ** while parsing file included at top.sv(4)
+# ** at testcase.sv(5): Error in class extension specification.
+# End time: 12:18:54 on May 20,2022, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# ** Error: C:/questasim64_10.7c/win64/vlog failed.
+# Error in macro ./run.do line 2
+# C:/questasim64_10.7c/win64/vlog failed.
+#     while executing
+# "vlog top.sv"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 12:36:45 on May 20,2022
+# vlog -reportprogress 300 top.sv 
+# -- Compiling interface ram_if
+# -- Compiling package top_sv_unit
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 12:36:45 on May 20,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.top -l run.log 
+# Start time: 12:01:56 on May 20,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: top.sv(15): Module 'ram_4096' is not defined.
+# Optimization failed
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 12:38:00 on May 20,2022
+# vlog -reportprogress 300 top.sv 
+# -- Compiling interface ram_if
+# -- Compiling package top_sv_unit
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 12:38:00 on May 20,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.top -l run.log 
+# Start time: 12:01:56 on May 20,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error (suppressible): test.sv(36): (vopt-7063) Failed to find 'build' in hierarchical name '$root.build'.
+#         Region: top_sv_unit
+# ** Error (suppressible): test.sv(38): (vopt-7063) Failed to find 'env_h' in hierarchical name '$root.env_h.run'.
+#         Region: top_sv_unit
+# Optimization failed
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 12:40:48 on May 20,2022
+# vlog -reportprogress 300 top.sv 
+# -- Compiling interface ram_if
+# -- Compiling package top_sv_unit
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 12:40:48 on May 20,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.top -l run.log 
+# Start time: 12:01:56 on May 20,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: top.sv(15): Module 'ram_4096' is not defined.
+# Optimization failed
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+# End time: 12:40:58 on May 20,2022, Elapsed time: 0:39:02
+# Errors: 10, Warnings: 0
